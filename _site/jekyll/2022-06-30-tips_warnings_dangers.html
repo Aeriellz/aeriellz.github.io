@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en" >
     <head><meta charset="UTF-8">
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>Jekyll Gitbook</title><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>Tips, Warnings, and Dangers · Jekyll Gitbook</title><meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="description" content="Build Jekyll site with the GitBook style.
 "><meta name="generator" content="Jekyll (using style of GitBook 3.2.3)"><meta name="author" content="HE Tao"><link rel="stylesheet" href="/jekyll-gitbook/assets/gitbook/style.css">
 <link rel="stylesheet" href="/jekyll-gitbook/assets/gitbook/gitbook-plugin-back-to-top-button/plugin.css">
@@ -25,9 +25,11 @@
 
 
 
+            <link rel="prev" href="/jekyll-gitbook/jekyll/2022-06-26-wide_tables.html" />
+        
 
         
-            <link rel="next" href="/jekyll-gitbook/jekyll/2019-04-27-why.html" />
+            <link rel="next" href="/jekyll-gitbook/jekyll/2023-08-31-mermaid.html" />
         
     </head>
     <body>
@@ -152,12 +154,15 @@
                             </li>
                         
                             
-                            <li class="chapter" data-level="1.1" data-path="/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html">
+                            <li class="chapter active" data-level="1.2" data-path="/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html">
                             
                                 <a href="/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html" onclick="pageScrollToTop(this)">
                                     Tips, Warnings, and Dangers
                                 </a>
                                 
+                                    
+                                        <ul><li><a href="#tips" onclick="mobilePageScrollToAnchor(this)" >Tips</a></li><li><a href="#warnings" onclick="mobilePageScrollToAnchor(this)" >Warnings</a></li><li><a href="#dangers" onclick="mobilePageScrollToAnchor(this)" >Dangers</a></li></ul>
+
                                     
                                 
                             </li>
@@ -279,7 +284,7 @@
                     <h1>
                         <i class="fa fa-circle-o-notch fa-spin"></i>
                         
-                            <a href="." >Jekyll Gitbook</a>
+                            <a href="." >Tips, Warnings, and Dangers</a>
                         
                     </h1>
                 </div>
@@ -292,29 +297,66 @@
             <div class="search-noresults">
                 <section class="normal markdown-section">
                     
-                        <h1 id="">Jekyll Gitbook</h1>
+                        <h1 id="/jekyll/tips_warnings_dangers">Tips, Warnings, and Dangers</h1>
                     
 
-                    <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+                    <p>This jekyll-theme supports tips, warnings, and dangers blocks and the style is referred
+from <a href="https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas">the discord.js website</a>.</p>
 
-<div class="container">
-  <h1>404</h1>
+<p>You could have the following <a href="https://kramdown.gettalong.org/quickref.html#block-attributes">markdown attributes (supported by kramdown)</a>:</p>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<h3 id="tips">Tips</h3>
+
+<p>Using a <code class="language-plaintext highlighter-rouge">{: .block-tip}</code> attribute:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### TIP</span>
+<span class="gt">&gt;</span>
+<span class="gt">&gt; This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have</span>
+<span class="gt">&gt; this or a similar version after installation.</span>
+{: .block-tip }
+</code></pre></div></div>
+
+<blockquote class="block-tip">
+  <h5 id="tip">TIP</h5>
+
+  <p>This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
+this or a similar version after installation.</p>
+</blockquote>
+
+<h3 id="warnings">Warnings</h3>
+
+<p>Using a <code class="language-plaintext highlighter-rouge">{: .block-warning}</code> attribute:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### WARNING</span>
+<span class="gt">&gt;</span>
+<span class="gt">&gt; Be sure that you're familiar with things like async/await and object destructuring</span>
+<span class="gt">&gt; before continuing, as we'll be making use of features like these.</span>
+{: .block-warning }
+</code></pre></div></div>
+
+<blockquote class="block-warning">
+  <h5 id="warning">WARNING</h5>
+
+  <p>Be sure that you’re familiar with things like async/await and object destructuring
+before continuing, as we’ll be making use of features like these.</p>
+</blockquote>
+
+<h3 id="dangers">Dangers</h3>
+
+<p>Using a <code class="language-plaintext highlighter-rouge">{: .block-danger}</code> attribute:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### DANGER</span>
+<span class="gt">&gt;</span>
+<span class="gt">&gt; You cannot delete an ephemeral message.</span>
+{: .block-danger }
+</code></pre></div></div>
+
+<blockquote class="block-danger">
+  <h5 id="danger">DANGER</h5>
+
+  <p>You cannot delete an ephemeral message.</p>
+</blockquote>
+
 </section>
             </div><div class="search-results">
     <div class="has-results">
@@ -370,12 +412,14 @@ window.MathJax = {
     }
 </script>
 
-<a href="/jekyll-gitbook/" class="navigation navigation-pre navigation-unique">
-                        <i class="fa"></i>
-                    </a>
+
+                        <a href="/jekyll-gitbook/jekyll/2022-06-26-wide_tables.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Wide tables">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+                    
 
                     
-                        <a href="/jekyll-gitbook/others/about/" class="navigation navigation-next navigation-unique" aria-label="Next page: About others">
+                        <a href="/jekyll-gitbook/jekyll/2023-08-31-mermaid.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Diagrams with mermaid.js">
                             <i class="fa fa-angle-right"></i>
                         </a>
                     
@@ -391,14 +435,12 @@ window.MathJax = {
         "level": "1.1",
         "depth": 1,
         
-
-        
         "next": {
-            "title": "Why Jekyll with GitBook",
+            "title": "Diagrams with mermaid.js",
             "level": "1.2",
             "depth": 1,
-            "path": "_posts/2019-04-27-why.md",
-            "ref": "_posts/2019-04-27-why.md",
+            "path": "_posts/2023-08-31-mermaid.md",
+            "ref": "_posts/2023-08-31-mermaid.md",
             "articles": []
         },
         
@@ -490,8 +532,8 @@ window.MathJax = {
         "gitbook": "*"
     },
     "file": {
-        "path": "404.html",
-        "mtime": "",
+        "path": "_posts/2022-06-30-tips_warnings_dangers.md",
+        "mtime": "2022-06-30 00:00:00 -0300",
         "type": "markdown"
     },
     "gitbook": {

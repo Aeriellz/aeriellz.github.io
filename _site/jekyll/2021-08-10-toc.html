@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en" >
     <head><meta charset="UTF-8">
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>Jekyll Gitbook</title><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>How to Generate TOC · Jekyll Gitbook</title><meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="description" content="Build Jekyll site with the GitBook style.
 "><meta name="generator" content="Jekyll (using style of GitBook 3.2.3)"><meta name="author" content="HE Tao"><link rel="stylesheet" href="/jekyll-gitbook/assets/gitbook/style.css">
 <link rel="stylesheet" href="/jekyll-gitbook/assets/gitbook/gitbook-plugin-back-to-top-button/plugin.css">
@@ -25,9 +25,11 @@
 
 
 
+            <link rel="prev" href="/jekyll-gitbook/jekyll/2019-04-29-license.html" />
+        
 
         
-            <link rel="next" href="/jekyll-gitbook/jekyll/2019-04-27-why.html" />
+            <link rel="next" href="/jekyll-gitbook/jekyll/2022-05-24-page_cover.html" />
         
     </head>
     <body>
@@ -119,12 +121,15 @@
                             </li>
                         
                             
-                            <li class="chapter" data-level="1.1" data-path="/jekyll-gitbook/jekyll/2021-08-10-toc.html">
+                            <li class="chapter active" data-level="1.2" data-path="/jekyll-gitbook/jekyll/2021-08-10-toc.html">
                             
                                 <a href="/jekyll-gitbook/jekyll/2021-08-10-toc.html" onclick="pageScrollToTop(this)">
                                     How to Generate TOC
                                 </a>
                                 
+                                    
+                                        <ul><li><a href="#why-this-repo" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a><ul><li><a href="#sub-title-1" onclick="mobilePageScrollToAnchor(this)" >Sub title 1</a></li><li><a href="#sub-title-2" onclick="mobilePageScrollToAnchor(this)" >Sub title 2</a></li><li><a href="#sub-title-3" onclick="mobilePageScrollToAnchor(this)" >Sub title 3</a></li></ul></li><li><a href="#why-this-repo-1" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-2" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-3" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-4" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-5" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-6" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-7" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-8" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-9" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-10" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-11" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-12" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-13" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-14" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li><li><a href="#why-this-repo-15" onclick="mobilePageScrollToAnchor(this)" >Why this repo</a></li></ul>
+
                                     
                                 
                             </li>
@@ -279,7 +284,7 @@
                     <h1>
                         <i class="fa fa-circle-o-notch fa-spin"></i>
                         
-                            <a href="." >Jekyll Gitbook</a>
+                            <a href="." >How to Generate TOC</a>
                         
                     </h1>
                 </div>
@@ -292,29 +297,191 @@
             <div class="search-noresults">
                 <section class="normal markdown-section">
                     
-                        <h1 id="">Jekyll Gitbook</h1>
+                        <h1 id="/jekyll/toc">How to Generate TOC</h1>
                     
 
-                    <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+                    <p>The jekyll-gitbook theme leverages <a href="https://github.com/allejo/jekyll-toc">jekyll-toc</a> to generate the <em>Contents</em> for the page.
+The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
+configuration in <code class="language-plaintext highlighter-rouge">_config.yml</code>:</p>
 
-<div class="container">
-  <h1>404</h1>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">toc</span><span class="pi">:</span>
+    <span class="na">enabled</span><span class="pi">:</span> <span class="kc">true</span>
+</code></pre></div></div>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<h2 id="why-this-repo">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+  <li>d</li>
+</ol>
+
+<h3 id="sub-title-1">Sub title 1</h3>
+
+<h3 id="sub-title-2">Sub title 2</h3>
+
+<h3 id="sub-title-3">Sub title 3</h3>
+
+<h2 id="why-this-repo-1">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+</ul>
+
+<h2 id="why-this-repo-2">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ol>
+
+<h2 id="why-this-repo-3">Why this repo</h2>
+
+<ul>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+</ul>
+
+<h2 id="why-this-repo-4">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+  <li>d</li>
+</ol>
+
+<h2 id="why-this-repo-5">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+</ul>
+
+<h2 id="why-this-repo-6">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ol>
+
+<h2 id="why-this-repo-7">Why this repo</h2>
+
+<ul>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+</ul>
+
+<h2 id="why-this-repo-8">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+  <li>d</li>
+</ol>
+
+<h2 id="why-this-repo-9">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+</ul>
+
+<h2 id="why-this-repo-10">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ol>
+
+<h2 id="why-this-repo-11">Why this repo</h2>
+
+<ul>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+</ul>
+
+<h2 id="why-this-repo-12">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+  <li>d</li>
+</ol>
+
+<h2 id="why-this-repo-13">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+</ul>
+
+<h2 id="why-this-repo-14">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ol>
+
+<h2 id="why-this-repo-15">Why this repo</h2>
+
+<ul>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+</ul>
+
 </section>
             </div><div class="search-results">
     <div class="has-results">
@@ -370,12 +537,14 @@ window.MathJax = {
     }
 </script>
 
-<a href="/jekyll-gitbook/" class="navigation navigation-pre navigation-unique">
-                        <i class="fa"></i>
-                    </a>
+
+                        <a href="/jekyll-gitbook/jekyll/2019-04-29-license.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: License">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+                    
 
                     
-                        <a href="/jekyll-gitbook/others/about/" class="navigation navigation-next navigation-unique" aria-label="Next page: About others">
+                        <a href="/jekyll-gitbook/jekyll/2022-05-24-page_cover.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Page with cover image">
                             <i class="fa fa-angle-right"></i>
                         </a>
                     
@@ -391,14 +560,12 @@ window.MathJax = {
         "level": "1.1",
         "depth": 1,
         
-
-        
         "next": {
-            "title": "Why Jekyll with GitBook",
+            "title": "Page with cover image",
             "level": "1.2",
             "depth": 1,
-            "path": "_posts/2019-04-27-why.md",
-            "ref": "_posts/2019-04-27-why.md",
+            "path": "_posts/2022-05-24-page_cover.md",
+            "ref": "_posts/2022-05-24-page_cover.md",
             "articles": []
         },
         
@@ -490,8 +657,8 @@ window.MathJax = {
         "gitbook": "*"
     },
     "file": {
-        "path": "404.html",
-        "mtime": "",
+        "path": "_posts/2021-08-10-toc.md",
+        "mtime": "2021-08-10 00:00:00 -0300",
         "type": "markdown"
     },
     "gitbook": {

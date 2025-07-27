@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en" >
     <head><meta charset="UTF-8">
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>Jekyll Gitbook</title><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>Diagrams with mermaid.js · Jekyll Gitbook</title><meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="description" content="Build Jekyll site with the GitBook style.
 "><meta name="generator" content="Jekyll (using style of GitBook 3.2.3)"><meta name="author" content="HE Tao"><link rel="stylesheet" href="/jekyll-gitbook/assets/gitbook/style.css">
 <link rel="stylesheet" href="/jekyll-gitbook/assets/gitbook/gitbook-plugin-back-to-top-button/plugin.css">
@@ -25,9 +25,11 @@
 
 
 
+            <link rel="prev" href="/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html" />
+        
 
         
-            <link rel="next" href="/jekyll-gitbook/jekyll/2019-04-27-why.html" />
+            <link rel="next" href="/jekyll-gitbook/jekyll/2023-10-14-math-latex.html" />
         
     </head>
     <body>
@@ -163,12 +165,15 @@
                             </li>
                         
                             
-                            <li class="chapter" data-level="1.1" data-path="/jekyll-gitbook/jekyll/2023-08-31-mermaid.html">
+                            <li class="chapter active" data-level="1.2" data-path="/jekyll-gitbook/jekyll/2023-08-31-mermaid.html">
                             
                                 <a href="/jekyll-gitbook/jekyll/2023-08-31-mermaid.html" onclick="pageScrollToTop(this)">
                                     Diagrams with mermaid.js
                                 </a>
                                 
+                                    
+                                        
+
                                     
                                 
                             </li>
@@ -279,7 +284,7 @@
                     <h1>
                         <i class="fa fa-circle-o-notch fa-spin"></i>
                         
-                            <a href="." >Jekyll Gitbook</a>
+                            <a href="." >Diagrams with mermaid.js</a>
                         
                     </h1>
                 </div>
@@ -292,29 +297,68 @@
             <div class="search-noresults">
                 <section class="normal markdown-section">
                     
-                        <h1 id="">Jekyll Gitbook</h1>
+                        <h1 id="/jekyll/mermaid">Diagrams with mermaid.js</h1>
                     
 
-                    <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+                    <p>This jekyll-theme supports <a href="https://mermaid.js.org/">mermaid.js</a> to render diagrams
+in markdown.</p>
 
-<div class="container">
-  <h1>404</h1>
+<p>To enable the mermaid support, you need to set <code class="language-plaintext highlighter-rouge">mermaid: true</code> in the front matter
+of your post.</p>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">Diagrams with mermaid.js</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">2023-08-31</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">mermaid</span><span class="pi">:</span> <span class="kc">true</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p>Then you can use mermaid syntax in your markdown:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>graph TD;
+    A--&gt;B;
+    A--&gt;C;
+    B--&gt;D;
+    C--&gt;D;
+</code></pre></div></div>
+
+<pre><code class="language-mermaid">graph TD;
+    A--&gt;B;
+    A--&gt;C;
+    B--&gt;D;
+    C--&gt;D;
+</code></pre>
+
+<p>Or, even some complex examples:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice-&gt;&gt;John: Hello John, how are you?
+    loop Healthcheck
+        John-&gt;&gt;John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts &lt;br/&gt;prevail!
+    John--&gt;&gt;Alice: Great!
+    John-&gt;&gt;Bob: How about you?
+    Bob--&gt;&gt;John: Jolly good!
+</code></pre></div></div>
+
+<pre><code class="language-mermaid">sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice-&gt;&gt;John: Hello John, how are you?
+    loop Healthcheck
+        John-&gt;&gt;John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts &lt;br/&gt;prevail!
+    John--&gt;&gt;Alice: Great!
+    John-&gt;&gt;Bob: How about you?
+    Bob--&gt;&gt;John: Jolly good!
+</code></pre>
+
+<p>Refer to the <a href="https://mermaid.js.org/intro/">mermaid.js website</a> for more examples.</p>
 </section>
             </div><div class="search-results">
     <div class="has-results">
@@ -347,6 +391,38 @@ window.MathJax = {
 
 <!-- introduce per-page mermaid support -->
 
+    <script>
+    function render_mermaid() {
+        mermaid.initialize({
+            startOnLoad: false,
+            theme: "default",
+        });
+        window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+    }
+
+    function initialize_mermaid() {
+        if (document.readyState === "loading") {
+            // Loading hasn't finished yet
+            document.addEventListener("DOMContentLoaded", render_mermaid);
+        } else {
+            // `DOMContentLoaded` has already fired
+            render_mermaid();
+        }
+    }
+
+    if (window.mermaid_script && window.mermaid) {
+        initialize_mermaid();
+    } else {
+        window.mermaid_script = document.createElement("script");
+        mermaid_script.onload = initialize_mermaid;
+        document.head.appendChild(mermaid_script);
+        mermaid_script.defer = true;
+        mermaid_script.id = 'mermaid-script';
+        mermaid_script.src = 'https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js';
+    }
+</script>
+
+
 
 <!-- introduce mathjax support -->
 <script>
@@ -370,12 +446,14 @@ window.MathJax = {
     }
 </script>
 
-<a href="/jekyll-gitbook/" class="navigation navigation-pre navigation-unique">
-                        <i class="fa"></i>
-                    </a>
+
+                        <a href="/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Tips, Warnings, and Dangers">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+                    
 
                     
-                        <a href="/jekyll-gitbook/others/about/" class="navigation navigation-next navigation-unique" aria-label="Next page: About others">
+                        <a href="/jekyll-gitbook/jekyll/2023-10-14-math-latex.html" class="navigation navigation-next navigation-unique" aria-label="Next page: MathJax and LaTeX">
                             <i class="fa fa-angle-right"></i>
                         </a>
                     
@@ -391,14 +469,12 @@ window.MathJax = {
         "level": "1.1",
         "depth": 1,
         
-
-        
         "next": {
-            "title": "Why Jekyll with GitBook",
+            "title": "MathJax and LaTeX",
             "level": "1.2",
             "depth": 1,
-            "path": "_posts/2019-04-27-why.md",
-            "ref": "_posts/2019-04-27-why.md",
+            "path": "_posts/2023-10-14-math-latex.md",
+            "ref": "_posts/2023-10-14-math-latex.md",
             "articles": []
         },
         
@@ -490,8 +566,8 @@ window.MathJax = {
         "gitbook": "*"
     },
     "file": {
-        "path": "404.html",
-        "mtime": "",
+        "path": "_posts/2023-08-31-mermaid.md",
+        "mtime": "2023-08-31 00:00:00 -0300",
         "type": "markdown"
     },
     "gitbook": {
