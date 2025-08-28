@@ -1,0 +1,15 @@
+links:
+- title: Home
+  url: /
+- title: filmmaking
+  url: /filmmaking
+- title: comp sci
+  url: /compsci
+- title: design
+  url: /design
+- title: About
+  url: /about
+- title: Search
+  url: /search
+- title: Rss
+  url: /atom.xml
