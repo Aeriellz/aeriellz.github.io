@@ -1,15 +1,15 @@
 links:
-- title: Home
+- title: Blogroll
   url: /
-- title: filmmaking
+- title: Filmmaking
   url: /filmmaking
-- title: comp sci
+- title: CompSci
   url: /compsci
-- title: design
+- title: Design
   url: /design
 - title: About
   url: /about
 - title: Search
   url: /search
-- title: Rss
+- title: RSS
   url: /atom.xml

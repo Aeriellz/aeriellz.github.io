@@ -1,11 +1,12 @@
 ---
 layout: page
+title: on filmmaking
 ---
 
-# *Filmmaking!*
+All posts and projects related to filmmaking, from screenwriting commentary to film stock experiments.
 
-My name is Ariel (she/her), and you just found my blog!
+#### All posts
+{% for post in  site.categories.filmmaking %}
+{{ post.title }} {{ post.date | date: "%m-%d-%Y" }}
+{% endfor %}
 
-This is a space in constant and permanent construction. It is a home for my thoughts and creations as I develop a myriad of hobbies and interests.
-
-Thanks so much for dropping by!

@@ -1,11 +1,13 @@
 ---
 layout: page
+title: on computer science
 ---
 
-# *Computer Science!*
+All posts and projects related to computer science, from breadboards to webstack explorations.
 
-My name is Ariel (she/her), and you just found my blog!
 
-This is a space in constant and permanent construction. It is a home for my thoughts and creations as I develop a myriad of hobbies and interests.
+#### All posts
+{% for post in  site.categories.compsci %}
+{{ post.title }} {{ post.date | date: "%m-%d-%Y" }}
+{% endfor %}
 
-Thanks so much for dropping by!
