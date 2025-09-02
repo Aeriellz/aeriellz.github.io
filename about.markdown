@@ -11,8 +11,10 @@ Here you can see a collection of things I've made or plan to make, but you're al
 
 ### If you don't like reading, you're not gonna have a good time here.
 
-My main interests are to your left, here on the navbar for easy reach, but in the blogroll you'll find all sorts of thoughts about life, and other interests that aren't yet consistent efforts or organized ones. While this site *does* functions as a portfolio, it's is not, and never will be, a sanitized or corporate version of me. I left social media for a reason. I'm not about to transform a person website into a LinkedIn page.
+My main interests are in the navbar for easy reach, but in the blogroll you'll find all sorts of thoughts about life, and other interests that aren't yet consistent efforts or organized ones. While this site *does* functions as a portfolio, it's is not, and never will be, a sanitized or corporate version of me. I left social media for a reason. I'm not about to transform a person website into a LinkedIn page.
 
 I built this page using Jekyll and the theme is a modified version of <a href ="https://github.com/ronv/sidey">Ronv's Sidey</a>, but all spaghetti nonsense is mine (I'm still learning).
+
+Forever thankful for Manuel Moraeles for the encouragement.
 
 Watch this website as it develops, or not, with my growing understanding of computer science and code.
