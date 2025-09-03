@@ -15,6 +15,6 @@ My main interests are in the navbar for easy reach, but in the blogroll you'll f
 
 I built this page using Jekyll and the theme is a modified version of <a href ="https://github.com/ronv/sidey">Ronv's Sidey</a>, but all spaghetti nonsense is mine (I'm still learning).
 
-Forever thankful for Manuel Moraeles for the encouragement.
+Forever thankful to Manuel Moreale for the encouragement.
 
 Watch this website as it develops, or not, with my growing understanding of computer science and code.
