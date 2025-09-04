@@ -1,6 +1,6 @@
 ---
 categories: filmmaking
-date: 2025-09-03 11:48:00 -0300
+date: 2025-09-04 11:48:00 -0300
 title: i'm sick of writing
 layout: post
 tags:
