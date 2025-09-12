@@ -15,7 +15,7 @@ Now, my solution for this starts back when I was still in college and a friend, 
 
 Now, because all the electronics he had and worked with were part of a filmmakers effort, and other video research, his raspberryPi was a little... different.
 
-![A RaspberryPi 3 Model B, in a gutted D-link case, with a lot of wires soldered to it](/assets/RaspPi-before)
+![A RaspberryPi 3 Model B, in a gutted D-link case, with a lot of wires soldered to it](/assets/RaspPi-before.jpeg)
 
 Some of it is understandable: he needed a coaxial connector for video in addition to the HDMI, for example, so he just tacked one in there. But why, God, *why*, would someone mount it upside down inside a fucking D-Link router case and cover the original USB plug, just to solder in a harder-to-find, more cumbersome, power plug?
 
@@ -23,7 +23,7 @@ A track to a another friend's house later and I had it attached to a TV to use a
 
 Not ideal, but it worked. Software-wise, everything was fine.
 
-![A RaspberryPi 3 Model B, in a gutted D-link case, with a lot of wires soldered to it](/assets/raspPi-InitialsetUp)
+![A RaspberryPi 3 Model B, in a gutted D-link case, with a lot of wires soldered to it](/assets/raspPi-InitialsetUp.jpeg)
 
 Thing truly started getting into a different territory when i realized that, because of the way everything was soldered together, I would have to get it *out* of the router case. It was not strictly necessary for me to undo all this work, since this little buddy will just stay in a corner of the room attached to as many drives as I can get away with, but not only the aesthetics of it bothered me—I am, first and foremost, an artist—, the HDMI extender the original owner bodged together wasn't reliable enough and was constantly making me lose image. Eventually I'll just SSH it, but for the time being I *need* to see.
 
