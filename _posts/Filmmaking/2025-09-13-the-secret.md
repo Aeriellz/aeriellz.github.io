@@ -1,6 +1,6 @@
 ---
 categories: filmmaking
-date: 2025-09-02 15:33:00 -0300
+date: 2025-09-13 15:33:00 -0300
 title: the secret to writing bliss
 layout: post
 tags:
