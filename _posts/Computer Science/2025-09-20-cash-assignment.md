@@ -9,7 +9,7 @@ tags:
 ---
 This was truly a fucking time.
 
-I've had a hard time with the anything regarding logic and math as a kid, and as silly as it sounds it bounced of a lot of insecurities and other stuff made me miserable for the rest of my life. It's a long story, but suffice to say, coding kinda triggers some of that and it makes everything harder than it has to be. I saw the cash assignment and completely froze, at first, because I was trying to do with mathematically, instead of logically, which was a waste of complete time.
+I've had a hard time with the anything regarding logic and math as a kid, and as silly as it sounds it bounced of a lot of insecurities and other stuff that made me miserable for the rest of my life. It's a long story, but suffice to say, coding kinda triggers some of that and it makes everything harder than it has to be. I saw the cash assignment and completely froze, at first, because I was trying to do it mathematically, instead of logically, which was a complete waste of time.
 
 I've been writing the code and making notes of my experience and thought process as comments, so I can track my progress and my mistakes. A friend of mine who's a developer complained about the excessive commenting, because apparently "you're not supposed to do that", but tough luck buddy. It's not for you. It's helping me learn, and that's all that matters.
 
@@ -54,7 +54,7 @@ At that point the code should be so simple that the duck could help us debug, an
 
 Yet, time and time again, I would press *up*, and then *enter*, to run the file through the command line, and the code would still be broken as if I never fixed anything. I was going completely insane. Hours of duck. Hours of thinking I was even worse at math than I thought I was if a simple addition operation wasn't working. 
 
-My last ditch attempt was something I remembered Daniel Shiffman, from [Coding Train](https://thecodingtrain.com), doing when he's got bugs. He prints all the values from his functions to the console at important steps, and tries to figure out where the hell the computer is getting those values from. So printf I wrote. It compiled. I ran... and... it wan't printing anything?
+My last ditch attempt was something I remembered Daniel Shiffman, from [Coding Train](https://thecodingtrain.com), doing when he's got bugs. He prints all the values from his functions to the console at important steps, and tries to figure out where the hell the computer is getting those values from. So printf I wrote. It compiled. I ran it... and... it wan't printing anything?
 
 Panic set in for a total of half a second before I pressed *up* to bring up the last command I ran on the CL. It was the wrong file.
 
@@ -64,7 +64,7 @@ For three days, I was running the wrong file.
 
 The only reason I didn't start crying was because I was not home. Me and a friend went to study at a coffee shop. Once I ran the right file everything was working perfectly. It was a victory, and while I was not pleased with it, I managed to laugh it off.
 
-All of this was about a month ago, and then for my own sanity I took some time before starting the next class I watched it, but I haven't started the problem set yet. We all have *that* disaster to look forward to. 
+All of this was about a month ago, and then for my own sanity I took some time before starting the next class. I watched it, but I haven't started the problem set yet. We all have *that* disaster to look forward to. 
 
 ### Key takeaways
 
