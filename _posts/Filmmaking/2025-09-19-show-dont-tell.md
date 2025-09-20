@@ -17,7 +17,7 @@ That's what "show, don't tell" means, but there's a chance no one has ever expla
 
 3. **Use imagery if necessary.** Your perception of things is different depending on how you feel. Maybe the sun is shining and birds are singing but all your character pays attention to is the annoying construction sound from the other side of the street. Atmosphere is not decorative, it's information.
 
-4. **Show, don't tell is an exclusive-or**. Don't show *and* tell, because the moment will lose weight completely.
+4. **"Show, don't tell is" an exclusive-or**. Don't show *and* tell, because the moment will lose weight completely.
 
 5. **Less is more.** I know how hard this is, because we think writing is always about giving more information, but actually the opposite is true. It's about giving the least amount of information possible to still do the job. This related closely to numbers 2 and 1. 
 
