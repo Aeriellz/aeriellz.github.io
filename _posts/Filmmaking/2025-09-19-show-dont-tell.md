@@ -9,7 +9,7 @@ tags:
 ---
 I don't care if you're writing a script, a novel, fanfiction, a comic book, *non-fiction*, it doesn't matter. The only thing exempt from this might be poetry. If it has a story in it, *for the love of god*, let moments speak for themselves.
 
-That's what "show, don't tell" means, but there's a change no one has ever explained to you what this truly means, judging by the state of recent literature, so let's go over some important things about it. 
+That's what "show, don't tell" means, but there's a chance no one has ever explained to you what this truly means, judging by the state of recent literature, so let's go over some important things about it. 
 
 1. **Behavior is golden.**  Actions are all you need. When in doubt, cut all narration and feelings explanation. Just tell me what they're doing. Is she nervous? Don't write that. Write that she's picking on her fingers. No matter what someone is thinking, or feeling, it *shows* in how they *behave*.
 
