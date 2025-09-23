@@ -23,43 +23,44 @@ The list is forever in construction, and encompasses both film and television. I
 ## The List
 ### Movies
 
-- ***Lethal Weapon 3***, by 
+***Lethal Weapon 3***, by Jeffrey Boam and Robert Mark Kamen
 	- Lorna sits to patch Riggs up
 
-- ***Lethal Weapon 4***
+***Lethal Weapon 4***, by Channing Gibson
 	- The shark
 	- Table surfing
 
+
 ### Television
 
-##### The Newsroom
-- **Season 1, Episode 2**: *News Night 2.0*, by Aaron Sorkin
+The Newsroom
+**Season 1, Episode 2**: *News Night 2.0*, by Aaron Sorkin
 	- Mackenzie sends an email
 
-##### The West Wing
-- Season 1, Episode 9: *The Short List*, by Aaron Sorkin
+The West Wing
+Season 1, Episode 9: *The Short List*, by Aaron Sorkin
 	- Goldfish
 
-- Season 4, Episode 21: *Life on Mars*, by Aaron Sorkin
+Season 4, Episode 21: *Life on Mars*, by Aaron Sorkin
 	- The bird(s)
 
-- Season 6, Episode 9: *Impact Winter*, by Debora Cahn
+Season 6, Episode 9: *Impact Winter*, by Debora Cahn
 	- Monday, Monday ♫♬
 
-- Season 6, Episode 15: *Freedonia*, by Eli Attie
+Season 6, Episode 15: *Freedonia*, by Eli Attie
 	- Chicken interview
 
-##### **Friends**
-- **Season 5, Episode 8**: *The One with All the Thanksgivings*, by Greg Malins
+**Friends**
+**Season 5, Episode 8**: *The One with All the Thanksgivings*, by Greg Malins
 	- Turkey hat
 
-##### **The X-Files**
-- **Season 7, Episode 21**: *Je Souhaite*, Vince Gilligan
+**The X-Files**
+**Season 7, Episode 21**: *Je Souhaite*, Vince Gilligan
 	- The missing body is missing
 
-##### **Breaking Bad**
-- **Season 1, Episode 2**: *Cat's In The Bag...*, by Vince Gilligan
+**Breaking Bad**
+**Season 1, Episode 2**: *Cat's In The Bag...*, by Vince Gilligan
 	- It's raining men
 
-- **Season 2, Episode 2**: *Grilled*, by George Mastras
+**Season 2, Episode 2**: *Grilled*, by George Mastras
 	- Tio Hector and the bell
