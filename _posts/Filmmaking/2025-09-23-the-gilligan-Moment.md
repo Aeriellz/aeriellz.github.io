@@ -14,7 +14,7 @@ His style represents a lot of what filmmaking has *lost* in the last twenty odd 
 
 *Well, not this girl, she won't.*
 
-*Gilligan Moment* is the name I give for all that is contrary to the apathy and overseriousness of contemporary cinema. These are moments that made me believe there's still a shred of creativity in this world and that not everything is gray and stale. It's named after Vince Gilligan, of Breaking Bad fame, who that started his career writing for X-Files, and is responsible for some of the best moments of that show. He's one of the most original writers out there who's still working, who manages to pull novelty out of thin air, use it dramatically, and elevate it it to commentary in memorable and exciting ways.
+*Gilligan Moment* is the name I give for all that is contrary to the apathy and overseriousness of contemporary cinema. These are moments that made me believe there's still a shred of creativity in this world and that not everything is gray and stale. It's named after Vince Gilligan, of Breaking Bad fame, who started his career writing for X-Files, and is responsible for some of the best moments of that show. He's one of the most original writers out there who's still working, who manages to pull novelty out of thin air, use it dramatically, and elevate it it to commentary in memorable and exciting ways.
 
 It all starts with the moment that inspired the creation of this moniker—Tio Hector and his bell, from Breaking Bad's *Grilled* (season 2, episode 2), but goes on to become a celebration of creativity, joy, and fun. It's about taking filmmaking in the spirit of *play*, and about letting art extend real life and not just be a comment on it. These are also great examples of showing instead of telling, and how to do it masterfully.
 
@@ -31,7 +31,6 @@ The list is forever in construction, and encompasses both film and television. I
 <br><br>
 <center> <h1> Television </h1> </center>
 
-<br>
 ## The Newsroom
 - **Season 1, Episode 2**: *News Night 2.0*, by Aaron Sorkin
 1. Mackenzie sends an email
