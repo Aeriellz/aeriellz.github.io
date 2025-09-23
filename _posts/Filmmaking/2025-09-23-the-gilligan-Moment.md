@@ -19,48 +19,47 @@ His style represents a lot of what filmmaking has *lost* in the last twenty odd 
 It all starts with the moment that inspired the creation of this moniker—Tio Hector and his bell, from Breaking Bad's *Grilled* (season 2, episode 2), but goes on to become a celebration of creativity, joy, and fun. It's about taking filmmaking in the spirit of *play*, and about letting art extend real life and not just be a comment on it. These are also great examples of showing instead of telling, and how to do it masterfully.
 
 The list is forever in construction, and encompasses both film and television. It tries to not spoil the moment itself, and I have included the name of the writer responsible for the episode.
+<br><br>
+<center><h1>Movies </h1> </center>
 
-## The List
-### Movies
+- ***Lethal Weapon 3***, by Jeffrey Boam and Robert Mark Kamen
+1. Lorna sits to patch Riggs up
+<br><br>
+- ***Lethal Weapon 4***, by Channing Gibson
+1.  The shark
+2. Table surfing
+<br><br>
+<center> <h1> Television </h1> </center>
 
-***Lethal Weapon 3***, by Jeffrey Boam and Robert Mark Kamen
-- Lorna sits to patch Riggs up
-
-***Lethal Weapon 4***, by Channing Gibson
--  The shark
-- Table surfing
-
-
-### Television
-
-#### **The Newsroom**
-**Season 1, Episode 2**: *News Night 2.0*, by Aaron Sorkin
-- Mackenzie sends an email
-
-#### **The West Wing**
-Season 1, Episode 9: *The Short List*, by Aaron Sorkin
-- Goldfish
-
-Season 4, Episode 21: *Life on Mars*, by Aaron Sorkin
-- The bird(s)
-
-Season 6, Episode 9: *Impact Winter*, by Debora Cahn
-- Monday, Monday ♫♬
-
-Season 6, Episode 15: *Freedonia*, by Eli Attie
-- Chicken interview
-
-#### **Friends**
-**Season 5, Episode 8**: *The One with All the Thanksgivings*, by Greg Malins
-- Turkey hat
-
-#### **The X-Files**
-**Season 7, Episode 21**: *Je Souhaite*, Vince Gilligan
-- The missing body is missing
-
-#### **Breaking Bad**
-**Season 1, Episode 2**: *Cat's In The Bag...*, by Vince Gilligan
-- It's raining men
-
-**Season 2, Episode 2**: *Grilled*, by George Mastras
-- Tio Hector and the bell
+<br>
+## The Newsroom
+- **Season 1, Episode 2**: *News Night 2.0*, by Aaron Sorkin
+1. Mackenzie sends an email
+<br><br>
+## The West Wing
+- **Season 1, Episode 9**: *The Short List*, by Aaron Sorkin
+1. Goldfish
+<br><br>
+- **Season 4, Episode 21**: *Life on Mars*, by Aaron Sorkin
+1. The bird(s)
+<br><br>
+- **Season 6, Episode 9**: *Impact Winter*, by Debora Cahn
+1. Monday, Monday ♫♬
+<br><br>
+- **Season 6, Episode 15**: *Freedonia*, by Eli Attie
+1. Chicken interview
+<br><br>
+## Friends
+- **Season 5, Episode 8**: *The One with All the Thanksgivings*, by Greg Malins
+1. Turkey hat
+<br><br>
+## The X-Files
+- **Season 7, Episode 21**: *Je Souhaite*, Vince Gilligan
+1. The missing body is missing
+<br><br>
+## Breaking Bad
+- **Season 1, Episode 2**: *Cat's In The Bag...*, by Vince Gilligan
+1. It's raining men
+<br><br>
+- **Season 2, Episode 2**: *Grilled*, by George Mastras
+1. Tio Hector and the bell
