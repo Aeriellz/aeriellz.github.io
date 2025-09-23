@@ -24,43 +24,43 @@ The list is forever in construction, and encompasses both film and television. I
 ### Movies
 
 ***Lethal Weapon 3***, by Jeffrey Boam and Robert Mark Kamen
-	- Lorna sits to patch Riggs up
+- Lorna sits to patch Riggs up
 
 ***Lethal Weapon 4***, by Channing Gibson
-	- The shark
-	- Table surfing
+-  The shark
+- Table surfing
 
 
 ### Television
 
-The Newsroom
+#### **The Newsroom**
 **Season 1, Episode 2**: *News Night 2.0*, by Aaron Sorkin
-	- Mackenzie sends an email
+- Mackenzie sends an email
 
-The West Wing
+#### **The West Wing**
 Season 1, Episode 9: *The Short List*, by Aaron Sorkin
-	- Goldfish
+- Goldfish
 
 Season 4, Episode 21: *Life on Mars*, by Aaron Sorkin
-	- The bird(s)
+- The bird(s)
 
 Season 6, Episode 9: *Impact Winter*, by Debora Cahn
-	- Monday, Monday ♫♬
+- Monday, Monday ♫♬
 
 Season 6, Episode 15: *Freedonia*, by Eli Attie
-	- Chicken interview
+- Chicken interview
 
-**Friends**
+#### **Friends**
 **Season 5, Episode 8**: *The One with All the Thanksgivings*, by Greg Malins
-	- Turkey hat
+- Turkey hat
 
-**The X-Files**
+#### **The X-Files**
 **Season 7, Episode 21**: *Je Souhaite*, Vince Gilligan
-	- The missing body is missing
+- The missing body is missing
 
-**Breaking Bad**
+#### **Breaking Bad**
 **Season 1, Episode 2**: *Cat's In The Bag...*, by Vince Gilligan
-	- It's raining men
+- It's raining men
 
 **Season 2, Episode 2**: *Grilled*, by George Mastras
-	- Tio Hector and the bell
+- Tio Hector and the bell
