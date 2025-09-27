@@ -1,6 +1,6 @@
 ---
 layout: page
-title: on design
+title: the studio
 ---
 
 <p>

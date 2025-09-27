@@ -1,10 +1,11 @@
 ---
 layout: page
-title: on computer science
+title: the writers room floor
 ---
 
+
 <p>
-    From breadboards to webstack explorations. Currently, I'm taking CS50 and learning the basics of the discipline.
+    From screenwriting commentary to film stock experiments. Currently extremely tired of this bullshit after two failed attempts at getting a Fulbright scholarship.
 </p>
 
 
@@ -18,7 +19,7 @@ title: on computer science
 </p>
 <section class="posts">
     <ul>
-        {% for post in site.categories.compsci %}
+        {% for post in site.categories.filmmaking %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time
                 datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
         {% endfor %}
