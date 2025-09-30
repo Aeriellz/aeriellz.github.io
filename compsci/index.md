@@ -2,16 +2,14 @@
 layout: page
 title: the skyline view workshop
 ---
+
 <p>
     From breadboards to webstack explorations. Currently, I'm taking CS50 and learning the basics of the discipline.
 </p>
 
+{% include collapsibleCompSci.html %}
 
 <section class="posts">
-<p>
-<h3>Projects</h3>
-</p>
-
 <p>
 <h3>All posts</h3>
 </p>

@@ -1,0 +1,80 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .collapsible {
+            background-color: #ffffff;
+            color: rgb(42, 42, 42);
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 20px;
+            line-height: 1;
+            margin: 1rem 0;
+            font-weight: 600;
+
+        }
+
+        .active,
+        .collapsible:hover {
+            background-color: #ffffff;
+        }
+
+        .content {
+            padding: 0 18px;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.2s ease-out;
+            background-color: #ffffff;
+        }
+
+        .collapsible:after {
+            content: '\02795';
+            /* Unicode character for "plus" sign (+) */
+            font-size: 13px;
+            color: white;
+            float: right;
+            margin-left: 5px;
+        }
+
+        .active:after {
+            content: "\2796";
+            /* Unicode character for "minus" sign (-) */
+        }
+    </style>
+</head>
+
+<body>
+    <button class="collapsible">Projects</button>
+    <div class="content">
+        <ul>
+            <li><a href="https://aeriellz.github.io/tag/cs50-2025/"> CS50, class of 2025 </a></li>
+            <li><a href="https://aeriellz.github.io/tag/homelab/"> Homelab </a></li>
+            <li><a href="https://aeriellz.github.io/tag/blog-building/"> Building this blog </a></li>
+        </ul>
+    </div>
+
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function () {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight) {
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                }
+            });
+        }
+    </script>
+
+</body>
+
+</html>

@@ -7,12 +7,6 @@ title: the studio
     From having no idea how Figma works to still having no idea how Figma works. Currently still learning basic principles and getting everything wrong. But like, with style.
 </p>
 
-
-<p>
-<h3>Projects</h3>
-</p>
-
-
 <p>
 <h3>All posts</h3>
 </p>
