@@ -16,7 +16,7 @@ By giving myself enough time and distance from the subject I had regained my own
 
 We often hear about *giving it time*, but where we sometimes perceive that as using that time to try again and again, often what we need is to leave it the fuck alone. Not do it, not be around it, go be somewhere else. *We need to forget.* 
 
-So much around us emphasizes speed, being quick to learn, quick to do it, quick to jump to the next thing, get the result, get the final product, perform—as if time was the enemy. As if the experience was somehow detached from the thing it generates. As if our proudest achievements aren't often void of monetary value, while filled with the memories and meaning to us and ours.
+So much around us emphasizes speed, being quick to learn, quick to do it, quick to jump to the next thing, get the result, get the final product, perform—as if time was the enemy. As if the experience was somehow detached from the thing it generates. As if our proudest achievements weren't often void of monetary value, while filled with the memories and meaning to us and ours.
 
 My therapist heard me complain about how bad I felt for not sitting down to write more an _immeasurable_ amount of time, both of us trying to figure out the key to productivity before her, in a moment of wisdom that I think had little to do with her degree and more with the fact that she was 30 years my senior, finally read me, realized what this was all about and said:
 
@@ -30,7 +30,7 @@ And there's no telling how much time it'll take. There's no making it quicker. T
 
 Things take time. Why are we so afraid of that?
 
-It doesn't mean we're to stop putting the work and sitting down and getting to it, but it does mean that sometimes writing looks like not writing at all and letting ourselves do something else that has absolutely nothing to do with it.
+It doesn't mean we're to stop putting the work and sitting down and getting to it, but it does mean that sometimes writing looks like not writing at all, but like letting ourselves do something else that has absolutely nothing to do with it.
 
 I've spent years turning things around in my head and worrying about this and that for days and thinking that this worry was somehow productive, and that's is a fantastic feat of self delusion, when you think about it. It only ever worked in my own detriment. You either sit the fuck down and do the work that is there to be done, or you let it be. Inspiration won't come forced, so turning things over until it becomes painful borders on self harm.
 
@@ -44,4 +44,4 @@ We have time limits for so much. Why add it to this, too?
 
 I used to hate the fact that I took so long to write, that everything I've ever created took so long, and often left me so frustrated with how long it took I stopped doing it altogether. I think I'm developing a better relationship to it, now; acquiring respect, a fondness, for the clock, instead of a fear of it. My perfectionism isn't as much of a problem when I give it space and time to work, for example. Instead of just curbing so I can reach the end, I let it fly, so I can reach satisfaction.
 
-In a way, writing—art, *creation*—is a leap of faith. There's thing you can chose, and there's things that seemingly happen on their own. For those, we walk through time, changing it, and we let time walk through us, changing us. So write slowly. Paint slowly. Forget. Remember only what you need.
+In a way, writing—art, *creation*—is a leap of faith. There's thing you can chose, and there's things that seemingly happen on their own. For those, we walk through time, changing it, and we let time walk through us, changing us. So write slowly. Film slowly. Forget. Remember only what you need.
