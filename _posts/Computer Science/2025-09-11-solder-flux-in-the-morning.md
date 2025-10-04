@@ -4,8 +4,8 @@ date: 2025-09-11 18:37:00 -0300
 title: i love the sweet smell of solder flux in the morning
 layout: post
 tags:
-  - code-learning
-  - homelab
+ - code-learning
+ - homelab
 ---
 Ever since I started going into coding I knew that eventually I wanted to run my own server. It started as me wanting to serve this website myself, mostly for fun, because I'm pretty sure that might be unsafe if not done right (I have not yet researched into, specifically, serving websites), but it quickly became something else. To make me even more convinced that relying on cloud storage is not for me, I just had all my files deleted from Mega because my account wasn't active enough. They send emails and wait, but the account and that email were 10 years old, I didn't see it on time. Everything I had from my teen years is now lost to entropy, and that has a way to make a girl mad. Those weren't files that I had any realistic use for, but it put it in perspective that bytes are fragile, and that "*the cloud*" isn't archival.
 
