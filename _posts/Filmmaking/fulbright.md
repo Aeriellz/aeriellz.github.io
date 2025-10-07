@@ -5,7 +5,9 @@ title: i'm tired of this grandpa
 layout: post
 tags:
   - writing
-  - fulbright-2025
+  - fulbright
+lang: eng
+ref: 
 ---
 
 I got rejected by the Fulbright commision for a screenwriting scholarship twice. Once because my writing was really bad, and the other because... well, I don't know, actually, they never told me. Maybe the same reason, who knows. The first time it hurt a lot, because rejection was still a sore spot for me. The second was an extreme relief, for reasons I've [previously mentioned](https://aeriellz.github.io/filmmaking/2025/09/04/sick-of-my-favorite-thing.html).

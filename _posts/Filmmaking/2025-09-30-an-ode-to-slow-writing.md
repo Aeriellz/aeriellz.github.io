@@ -5,6 +5,8 @@ title: an ode to slow writing
 layout: post
 tags:
   - writing
+lang: eng
+ref: odeslow
 ---
 So. I'm getting my license to drive a bike, and I suck at it. I fell down a bunch of times, broke a piece of the bike on day two and failed to finish the practice circuit so many times that the frustration got to me. I woke up early one day and was so dreading the whole thing it that I went to the driver's school and asked to stop. There were just three classes left before the final test, but it was too much. Time to accept reality and give up. By sheer luck my instructor was there and changed my mind. 
 

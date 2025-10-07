@@ -5,6 +5,8 @@ title: filmmaking wishlist
 layout: post
 tags:
   - directing
+lang: eng
+ref: 
 ---
 
 

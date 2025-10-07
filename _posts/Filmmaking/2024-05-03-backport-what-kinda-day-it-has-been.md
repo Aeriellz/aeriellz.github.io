@@ -5,7 +5,9 @@ title: what kinda day it has been
 layout: post
 tags:
   - writing
-  - fulbright-2025
+  - fulbright
+lang: eng
+ref: kindaday
 ---
 I'm stealing this sentence from Sorkin because it describes too well the kinda of thing I've been dealing with when it comes to writing: it's been that kinda of day, when you have a problem and you don't even understand it very well, let alone how to solve it. It led me to steal something else: a dude on YouTube's idea to write mini-essays everyday so I can at least try to explain to myself how this is going.
 

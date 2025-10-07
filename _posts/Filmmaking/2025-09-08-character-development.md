@@ -6,6 +6,8 @@ layout: post
 tags:
   - writing
   - writing-basics
+lang: eng
+ref: characterdev
 ---
 Character creation is one of those things that snags on so much stuff. I mean, everything snags on everything, it's writing. There's not a single decision that won't have consequences that you didn't predict, but without clear and well designed character everything just crumbles completely. It is its own special case.
 

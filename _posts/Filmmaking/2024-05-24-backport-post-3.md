@@ -5,8 +5,10 @@ title: "synopsis, part i: the what and the why"
 layout: post
 tags:
   - writing
-  - fulbright-2025
+  - fulbright
   - writing-basics
+lang: eng
+ref: synopsisi
 ---
 The bane of my existence is synopsis writing, or at least it has been so far, and _this ends today_. Or in what will probably be the next few days as I write this post. More realistically, the oncoming weeks.
 

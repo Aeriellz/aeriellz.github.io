@@ -5,7 +5,9 @@ title: "synopsis, part iii: losing my mind for fun and (maybe) profit"
 layout: post
 tags:
   - writing
-  - fulbright-2025
+  - fulbright
+lang: eng
+ref: synopsisiii
 ---
 I wrote 13 versions of the synopsis of the movie for the Fulbright grant attempt this year, and I named them so I could keep track of the changes, and what was happening.
 

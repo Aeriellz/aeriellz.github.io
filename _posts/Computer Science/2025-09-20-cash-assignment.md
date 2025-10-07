@@ -5,7 +5,9 @@ title: "cs50, part i: the cash assignment"
 layout: post
 tags:
   - code-learning
-  - cs50-2025
+  - cs50
+lang: eng
+ref: cashassignment
 ---
 This was truly a fucking time.
 

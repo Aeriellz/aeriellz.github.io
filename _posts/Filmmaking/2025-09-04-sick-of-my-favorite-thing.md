@@ -5,6 +5,8 @@ title: i'm sick of writing
 layout: post
 tags:
   - writing
+lang: eng
+ref: sickofit
 ---
 Writing is one of the things I've been doing ever since I was pretty much a kid, it was always a source of joy and a good way to pass the time. I loved it so much that I decided I would learn more of it, and so I went to school for filmmaking and my last ten years have been about storytelling, story structure, story this, story that. Now, the problem with dedicating a decade to something you love profoundly is that you star to not *like* it very much.
 

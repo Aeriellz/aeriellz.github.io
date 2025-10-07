@@ -6,6 +6,8 @@ layout: post
 tags:
   - writing
   - writing-basics
+lang: eng
+ref: showdonttell
 ---
 I don't care if you're writing a script, a novel, fanfiction, a comic book, *non-fiction*, it doesn't matter. The only thing exempt from this might be poetry. If it has a story in it, *for the love of god*, let moments speak for themselves.
 

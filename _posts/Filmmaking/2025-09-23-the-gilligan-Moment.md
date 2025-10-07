@@ -5,6 +5,8 @@ title: the gilligan moment
 layout: post
 tags:
   - writing
+lang: eng
+ref: gilliganmoment
 ---
 What the hell, you ask, is a Gilligan Moment?
 

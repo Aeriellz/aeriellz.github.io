@@ -5,6 +5,8 @@ title: the secret to writing bliss
 layout: post
 tags:
   - writing
+lang: eng
+ref: thesecret
 ---
 The reason I've been an unhappy writer as of late has been found, and I'm ashamed to say that it's because of something simple, deadly, and embarrassing. I have been taking myself too seriously.
 

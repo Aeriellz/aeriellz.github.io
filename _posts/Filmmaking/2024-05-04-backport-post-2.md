@@ -5,7 +5,9 @@ title: where's my unhinged ideas when I need them?
 layout: post
 tags:
   - writing
-  - fulbright-2025
+  - fulbright
+lang: eng
+ref: problemyesterday
 ---
 I kinda solved the problem from yesterday? It was a matter of thinking through a scene that had a lot of things happening at once and separating all of it a little bit so I could name everything right. It will return to its mashed up state in the writing of the scene itself, but for structural purposes I had to separate the happenings so I knew exactly what was the purpose of each one in the story.
 

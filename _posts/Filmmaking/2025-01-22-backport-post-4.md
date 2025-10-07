@@ -5,8 +5,10 @@ title: "synopsis, part ii: on patience and iterations"
 layout: post
 tags:
   - writing
-  - fulbright-2025
+  - fulbright
   - writing-basics
+lang: eng
+ref: synopsisii
 ---
 When I started the whole synopsis study thing I was expecting it to be both harder and easier than it was. In reality it’s been something not in the middle, but a more heterogeneous mix of both; a lot of it definitely made worse by the anxiety I have over learning things that are required of me, as opposed to things I _want_ to learn.
 
