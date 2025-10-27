@@ -1,6 +1,6 @@
 ---
 categories: filmmaking
-date: 2025-10-20 15:24:00 -0300
+date: 2025-10-27 19:55:00 -0300
 title: notes on the jurassic series
 layout: post
 tags:
