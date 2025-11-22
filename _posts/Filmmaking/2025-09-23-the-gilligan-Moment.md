@@ -68,6 +68,3 @@ The list is forever in construction, and encompasses both film and television. I
 <br><br>
 - **Season 2, Episode 2**: *Grilled*, by George Mastras
 1. Tio Hector and the bell
-
-
-v18Ty<qC2+<A
