@@ -1,6 +1,6 @@
 ---
 layout: page
-title: the studio on mulholland drive
+title: the cliffside studio
 ---
 <p>
     From screenwriting commentary to film stock experiments. Currently extremely tired of this bullshit after two failed attempts at getting a Fulbright scholarship.
