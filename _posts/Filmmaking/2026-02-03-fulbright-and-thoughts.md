@@ -1,6 +1,6 @@
 ---
 categories: filmmaking
-date: 2026-09-23 14:38:00 -0300
+date: 2026-02-23 20:58:00 -0300
 title: fulbright, and where to go
 layout: post
 tags:
