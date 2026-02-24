@@ -1,6 +1,6 @@
 ---
 categories: filmmaking
-date: 2026-02-27 15:11:00 -0300
+date: 2026-02-24 08:40:00 -0300
 title: hopelessness and media
 layout: post
 tags:
