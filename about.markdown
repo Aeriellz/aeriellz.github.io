@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Hi!
 
-My name is **Ariel Rodrigues** (she/her), I'm Brazillian, 30 years old, and you've either stumbled or was directed to this little website that I use as a portfolio of sorts!
+My name is **Ariel** (she/her), I'm a writer and filmmaker currently based in Brazil, and you've either stumbled or was directed to this little website that I use as a portfolio of sorts!
 
 Here you can see a collection of things I've made or plan to make, but you're also welcome to browse the blog posts to check out the process of how those things came to be. It's a porthole into messy and unpredictable creative processes, so expect rambles, swearing and overall complaining -- but also legitimate curiosity and discovery.
 
