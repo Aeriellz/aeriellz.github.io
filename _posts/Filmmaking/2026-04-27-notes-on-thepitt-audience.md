@@ -1,7 +1,7 @@
 ---
 categories: filmmaking
 date: 2026-04-27 01:01:00 -0300
-title: "notes on: an audience"
+title: notes on an audience
 layout: post
 tags:
   - writing
