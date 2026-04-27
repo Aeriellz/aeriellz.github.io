@@ -18,25 +18,26 @@ His style represents a lot of what filmmaking has *lost* in the last twenty odd 
 
 *Gilligan Moment* is the name I give to all that is contrary to the apathy and overseriousness of contemporary cinema. These are moments that made me believe there's still a shred of creativity in this world and that not everything is gray and stale. It's named after Vince Gilligan, of Breaking Bad fame, who started his career writing for X-Files, and is responsible for some of the best moments of that show. He's one of the most original writers out there who's still working, who manages to pull novelty out of thin air, use it dramatically, and elevate it to commentary in memorable and exciting ways.
 
+At it's best, the Gilligan Moment are moments when a writer found the weirdest or most unconventional way of saying something in writing, and then made it even weirder. In the best way possible.
+
 It all starts with the moment that inspired the creation of this moniker—Tio Hector and his bell, from Breaking Bad's *Grilled* (season 2, episode 2), but goes on to become a celebration of creativity, joy, and fun. It's about taking filmmaking in the spirit of *play*, and about letting art extend real life and not just be a comment on it. These are also great examples of showing instead of telling, and how to do it masterfully.
 
-The list is forever in construction, and encompasses both film and television. It tries to not spoil the moment itself, and I have included the name of the writer responsible for the episode.
+The list is forever in construction, encompasses both film and television and I have included the name of the writer responsible. I also tried to not spoil the moment itself.
 <br><br>
 <center><h1>Movies </h1> </center>
 
 - ***Lethal Weapon 3***, by Jeffrey Boam and Robert Mark Kamen
-1. Lorna sits to patch Riggs up
+1. Lorna patches Riggs up
 <br><br>
 - ***Lethal Weapon 4***, by Channing Gibson
 1.  The shark
-2. Table surfing
 <br><br>
 - ***The Thomas Crown Affair (1999)***, by John McTiernan
 1. Thomas Crown, forced to sell
 2. The pencil
 <br><br>
 - ***F for Fake (1973)***, by Oja Kodar and Orson Welles
-1. The ending of the movie
+1. The ending
 <br><br>
 <center> <h1> Television </h1> </center>
 

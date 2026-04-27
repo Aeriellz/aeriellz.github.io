@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Hi!
 
-My name is **Ariel** (she/her), I'm a writer and filmmaker currently based in Brazil, and you've either stumbled or was directed to this little website that I use as a portfolio of sorts!
+My name is **Ariel** (she/her), I'm a writer and filmmaker currently based in Brazil, and you've either stumbled upon or was directed to this little website that I use as a portfolio of sorts!
 
 Here you can see a collection of things I've made or plan to make, but you're also welcome to browse the blog posts to check out the process of how those things came to be. It's a porthole into messy and unpredictable creative processes, so expect rambles, swearing and overall complaining -- but also legitimate curiosity and discovery.
 
@@ -13,7 +13,7 @@ Here you can see a collection of things I've made or plan to make, but you're al
 
 My main interests are in the navbar for easy reach, but in the blogroll you'll find all sorts of thoughts about life, and other interests that aren't yet consistent efforts or organized ones. While this site *does* functions as a portfolio, it's is not, and never will be, a sanitized or corporate version of me. I left social media for a reason. I'm not about to transform a person website into a LinkedIn page.
 
-I built this page using Jekyll and the theme is a modified version of <a href ="https://github.com/ronv/sidey">Ronv's Sidey</a>, but all spaghetti nonsense is mine (I'm still learning).
+I built this page using Jekyll and the theme is a modified version of <a href ="https://github.com/ronv/sidey">Ronv's Sidey</a>. All spaghetti code is mine (I'm still learning).
 
 Forever thankful to Manuel Moreale for the encouragement.
 
