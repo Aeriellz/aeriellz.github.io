@@ -1,6 +1,6 @@
 ---
 categories: filmmaking
-date: 2025-06-11 15:22:00 -0300
+date: 2026-06-11 15:22:00 -0300
 title: resistance
 layout: post
 tags:

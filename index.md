@@ -2,11 +2,11 @@
 layout: default
 lang: eng
 ---
+
+<section class="posts">
 <p>
         A while back I realized I needed a space outside of time.
 </p>
-
-<section class="posts">
 {% assign posts=site.posts | where:"lang", page.lang %}
 <ul>
 {% for post in posts %}
