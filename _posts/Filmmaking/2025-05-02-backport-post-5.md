@@ -16,7 +16,7 @@ Before I talk about the entire journey — I've submitted the thing a couple day
 Conductor can we— [Ah, yes, perfect](https://www.youtube.com/watch?v=OqvHWUZZdP0).
 
 
-![Version 1: the bad version where I kinda just copied what I had from sheets](version1.png)
+![Version 1: the bad version where I kinda just copied what I had from sheets]({{site.url}}Filmmaking/version1.png)
 
 ![sorry no alt text yet!](version2.png)
 
