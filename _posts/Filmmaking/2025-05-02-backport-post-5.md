@@ -18,31 +18,31 @@ Conductor can we— [Ah, yes, perfect](https://www.youtube.com/watch?v=OqvHWUZZd
 
 ![Version 1: the bad version where I kinda just copied what I had from sheets]({{site.url}}/images/version1.png)
 
-![sorry no alt text yet!](version2.png)
+![sorry no alt text yet!]({{site.url}}/images/version2.png)
 
-![Version 1: the bad version where I kinda just copied what I had from sheets](version3.png)
+![sorry no alt text yet!]({{site.url}}/images/version3.png)
 
-![Version 1: the bad version where I kinda just copied what I had from sheets](version4.png)
+![sorry no alt text yet!]({{site.url}}/images/version4.png)
 
-![Version 1: the bad version where I kinda just copied what I had from sheets](version5.png)
+![sorry no alt text yet!]({{site.url}}/images/version5.png)
 
-![Version 1: the bad version where I kinda just copied what I had from sheets](version6-1.png)
+![sorry no alt text yet!]({{site.url}}/images/version6-1.png)
 
-![Version 1: the bad version where I kinda just copied what I had from sheets](version6.png)
+![sorry no alt text yet!]({{site.url}}/images/version6.png)
 
-![sorry no alt text yet!](version7.png)
+![sorry no alt text yet!]({{site.url}}/images/version7.png)
 
-![sorry no alt text yet!](version8.png)
+![sorry no alt text yet!]({{site.url}}/images/version8.png)
 
-![sorry no alt text yet!](version9.png)
+![sorry no alt text yet!]({{site.url}}/images/version9.png)
 
-![sorry no alt text yet!](version10.png)
+![sorry no alt text yet!]({{site.url}}/images/version10.png)
 
-![sorry no alt text yet!](version11.png)
+![sorry no alt text yet!]({{site.url}}/images/version11.png)
 
-![sorry no alt text yet!](version12.png)
+![sorry no alt text yet!]({{site.url}}/images/version12.png)
 
-![sorry no alt text yet!](version13.png)
+![sorry no alt text yet!]({{site.url}}/images/version13.png)
 
 I talked about [what a synopsis is](https://aeriellz.github.io/filmmaking/2024/05/24/backport-post-3.html), technically, and what the first steps and iterations had been. It's easy to track the things I talked about on my last post — how it was all a game of chicken against my own mind, and not so much about being a good writer. But it _does_ become about knowing what you're doing at some point. You read a lot, and you write a few versions, and you start understanding —, and _oh, this is character motivation and I need it very clear from the start_ or _my character's behavior is not clear, so it's like they have no agency_.
 
