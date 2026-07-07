@@ -15,33 +15,34 @@ Before I talk about the entire journey — I've submitted the thing a couple day
 
 Conductor can we— [Ah, yes, perfect](https://www.youtube.com/watch?v=OqvHWUZZdP0).
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/69a993de7f094179949e2545253c803d/eyJ3Ijo4MjB9/1.png?token-hash=XauTJuO1W85C37t9PYq5GbgQeYKrXD_p3vb8qSoGyHQ%3D&token-time=1758758400)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/9c2c42b0a9874e6d80126ac001001c01/eyJ3Ijo4MjB9/1.png?token-hash=7HAoomlIXHdxjEEBKpST-_qMjyOSTWUuxHMBgp9Crgk%3D&token-time=1758758400)
+![Version 1: the bad version where I kinda just copied what I had from sheets](version1.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/d360f1050d7f42d0b94fe798902d7eb4/eyJ3Ijo4MjB9/1.png?token-hash=tPm400Ee39LzoGrGO9GxqhDOJeK-w0Ilkw18vK0JAMk%3D&token-time=1758758400)
+![sorry no alt text yet!](version2.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/8259284657c24227b73ed54979947911/eyJ3Ijo4MjB9/1.png?token-hash=16m5F_s05nF4flv3Jrh4CmZO8vclB7f677_r_7bRHdw%3D&token-time=1758758400)
+![Version 1: the bad version where I kinda just copied what I had from sheets](version3.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/ee7c8e73c67940f4a0ce247e8e595a6c/eyJ3Ijo4MjB9/1.png?token-hash=KM8CPOk09kNbUQ-MjQPDRzQdMtQ68gMAiBaJYbjSK1s%3D&token-time=1758758400)
+![Version 1: the bad version where I kinda just copied what I had from sheets](version4.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/d24a8c86c4f942d5ab40e68216f8b712/eyJ3Ijo4MjB9/1.png?token-hash=pMQh6LmuU7kc7qF14UO5F0qNAmAfySTR7LzrNX2DASo%3D&token-time=1758758400)
+![Version 1: the bad version where I kinda just copied what I had from sheets](version5.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/751f2bd77ecf40b5b0d76401890b933a/eyJ3Ijo4MjB9/1.png?token-hash=ZOoCGoixWUOYYclWT9xU2BLk4xEHX4kWEw9orwyEpjc%3D&token-time=1758758400)
+![Version 1: the bad version where I kinda just copied what I had from sheets](version6-1.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/2ab594cf8b884bc0ad1a4125f8d07f98/e30%3D/1.png?token-hash=Bd0qvHMpm2C4y8sfgMIPpyEre9pQl_qDPM7RO2KYsAI%3D&token-time=1758758400)
+![Version 1: the bad version where I kinda just copied what I had from sheets](version6.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/2087ef6bc97f4f0a8edbebe8740352fb/e30%3D/1.png?token-hash=pVKAV9HVwzLYJhsFUSaD4ihG1sD6rTYvSNdwCk-ULrc%3D&token-time=1758758400)
+![sorry no alt text yet!](version7.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/75ca46bd56dd4b29ad802ff4c8368a83/e30%3D/1.png?token-hash=tWd106b0WAB9jNkrN1mYlBevBWzGYu00UxCqO26rh1I%3D&token-time=1758758400)
+![sorry no alt text yet!](version8.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/890cf920ef924f718afe205e452ca9f0/e30%3D/1.png?token-hash=6NkHKPHPrkkBb0WiQr3ddQT9ETuJybB391Xq_Y7QxFU%3D&token-time=1758758400)
+![sorry no alt text yet!](version9.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/0973d037703a4d1f9217db55f8172f45/eyJ3Ijo4MjB9/1.png?token-hash=qDtzcYjd_90gKD5HVLLOLn26tyRKJibw25Bhae2-VcQ%3D&token-time=1758758400)
+![sorry no alt text yet!](version10.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/ec69367faf784ee4bd5303ce381c2a2e/e30%3D/1.png?token-hash=18NGm72usSk6On2vOdyzQZD3xG9gpAaeE8Sb_RV9Qf8%3D&token-time=1758758400)
+![sorry no alt text yet!](version11.png)
 
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/128025946/c3d25d52a33b4f678c3d6b2247e2b949/e30%3D/1.png?token-hash=oOrusSsXuA_USa24ujezRYbf3b1JAQMjIXWkqD6d8r0%3D&token-time=1758758400)
+![sorry no alt text yet!](version12.png)
+
+![sorry no alt text yet!](version13.png)
 
 I talked about [what a synopsis is](https://aeriellz.github.io/filmmaking/2024/05/24/backport-post-3.html), technically, and what the first steps and iterations had been. It's easy to track the things I talked about on my last post — how it was all a game of chicken against my own mind, and not so much about being a good writer. But it _does_ become about knowing what you're doing at some point. You read a lot, and you write a few versions, and you start understanding —, and _oh, this is character motivation and I need it very clear from the start_ or _my character's behavior is not clear, so it's like they have no agency_.
 
