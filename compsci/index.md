@@ -1,6 +1,5 @@
 ---
 layout: page
-title: the skyline view workshop
 ---
 
 <p>
