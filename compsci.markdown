@@ -1,9 +1,7 @@
 ---
-permalink: /compsci/
+permalink: /compsci
 ---
-<p>
-    Here be all of the topics regarding Computer Science, from my explorations of microcontrolers and breadboard coding to webstack and my distaste for JS. Does *anyone* like JS?
-</p>
+Here be all of the topics regarding Computer Science, from my explorations of microcontrolers and breadboard coding to webstack and my distaste for JS. Does *anyone* like JS?
 <p>
 <center>
 <h3>Topics</h3>
