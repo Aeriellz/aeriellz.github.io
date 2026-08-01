@@ -8,7 +8,7 @@ lang: eng
 <b>Frame</b> <i>/frām/
 <br>Noun.</i>
 An open case or structure made for admitting, enclosing, or supporting something.
-</p>
+<p>
 <br>
 <br>
 {% assign posts=site.posts | where:"lang", page.lang %}
