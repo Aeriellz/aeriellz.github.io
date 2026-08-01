@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: the cliffside studio
 ---
 <p>
