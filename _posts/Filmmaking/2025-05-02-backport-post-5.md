@@ -13,8 +13,9 @@ I wrote 13 versions of the synopsis of the movie for the Fulbright grant attempt
 
 Before I talk about the entire journey — I've submitted the thing a couple days ago — I would like to share the names of each version. They're very telling. You can see the exact point where I started to just... _fucking lose it_.
 
-Conductor can we— [Ah, yes, perfect](https://www.youtube.com/watch?v=OqvHWUZZdP0).
+Conductor can we— 
 
+<iframe width="560" height="100" src="https://www.youtube.com/embed/OqvHWUZZdP0?si=Iz3RxvCbwcd2S1UO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Version 1: the bad version where I kinda just copied what I had from sheets]({{site.url}}/images/version1.png)
 
