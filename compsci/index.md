@@ -1,12 +1,17 @@
 ---
 layout: page
-title: the skyline view workshop
+title: compsci
 ---
 <p>
     From breadboards to webstack explorations. Currently, I'm taking CS50 and learning the basics of the discipline while making my NAS from scratch.
 </p>
 <p>
-<center><a href="https://aeriellz.github.io/tag/cs50/"> CS50</a> | <a href="https://aeriellz.github.io/tag/homelab/"> Homelab</a> | <a href="https://aeriellz.github.io/tag/blog-building/"> Building this blog</a></center>
+<center>
+<h3>topics</h3>
+<a href="https://aeriellz.github.io/tag/cs50/"> CS50</a> | 
+<a href="https://aeriellz.github.io/tag/homelab/"> Homelab</a> | 
+<a href="https://aeriellz.github.io/tag/blog-building/"> Building this blog</a>
+</center>
 </p>
 
 {% include collapsibleCompSci.html %}
