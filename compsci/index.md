@@ -1,9 +1,8 @@
 ---
 layout: page
-title: the skyline view workshop
 ---
 <p>
-    From breadboards to webstack explorations. Currently, I'm taking CS50 and learning the basics of the discipline while making my NAS from scratch.
+    Here be all of the topics regarding Computer Science, from my explorations of microcontrolers and breadboard coding to webstack and my distaste for JS. Does *anyone* like JS?
 </p>
 <p>
 <center>
