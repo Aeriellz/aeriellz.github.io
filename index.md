@@ -6,8 +6,7 @@ lang: eng
 <section class="posts">
 
 <b>Frame</b> <i>/frām/
-<br>Noun.</i>
-An open case or structure made for admitting, enclosing, or supporting something.
+<br>Noun.</i> An open case or structure made for admitting, enclosing, or supporting something.
 <p>
 <br>
 <br>
