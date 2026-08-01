@@ -4,8 +4,10 @@ lang: eng
 ---
 
 <section class="posts">
-<p>
-        A while back I realized I needed a space outside of time.
+
+<b>Frame</b> <i>/frām/
+<br>Noun.</i>
+An open case or structure made for admitting, enclosing, or supporting something.
 </p>
 <br>
 <br>
