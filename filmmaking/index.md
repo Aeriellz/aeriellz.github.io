@@ -8,14 +8,6 @@ title: the cliffside studio
 
 {% include collapsibleFilmmaking.html %}
 
-<section class="posts">
 <p>
-<h3>All posts</h3>
+<a href="https://aeriellz.github.io/filmmaking/2025/09/23/the-gilligan-Moment.html"> List of Gilligan Moments </a> | <a href="https://aeriellz.github.io/tag/fulbright/"> Fulbright</a> | <a href="https://aeriellz.github.io/tag/writing-basics/"> Writing Basics </a>
 </p>
-    <ul>
-        {% for post in site.categories.filmmaking %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time
-                datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
-        {% endfor %}
-    </ul>
-</section>

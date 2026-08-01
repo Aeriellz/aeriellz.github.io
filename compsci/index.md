@@ -2,20 +2,13 @@
 layout: page
 title: the skyline view workshop
 ---
+
 <p>
     From breadboards to webstack explorations. Currently, I'm taking CS50 and learning the basics of the discipline while making my NAS from scratch.
 </p>
 
 {% include collapsibleCompSci.html %}
 
-<section class="posts">
 <p>
-<h3>All posts</h3>
+<a href="https://aeriellz.github.io/tag/cs50/"> CS50</a> | <a href="https://aeriellz.github.io/tag/homelab/"> Homelab</a> | <a href="https://aeriellz.github.io/tag/blog-building/"> Building this blog</a>
 </p>
-    <ul>
-        {% for post in site.categories.compsci %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time
-                datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
-        {% endfor %}
-    </ul>
-</section>
