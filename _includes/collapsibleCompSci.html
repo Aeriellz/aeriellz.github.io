@@ -58,9 +58,12 @@
 <body>
     <button class="collapsible">Projects</button>
     <div class="content">
-        <ul>
-            <a href="https://aeriellz.github.io/tag/cs50/"> CS50</a> | <a href="https://aeriellz.github.io/tag/homelab/"> Homelab</a> | <a href="https://aeriellz.github.io/tag/blog-building/"> Building this blog</a>
-        </ul>
+      <ul>
+        {% for post in site.categories.compsci %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time
+                datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+        {% endfor %}
+    </ul>
     </div>
 
     <script>
