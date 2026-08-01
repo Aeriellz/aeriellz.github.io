@@ -3,11 +3,10 @@ layout: default
 lang: eng
 ---
 
-<p>
-        A while back I realized I needed a space outside of time. A box of sorts: non-restrictive containment where everything goes, and where nothing really matters.
-</p>
-
 <section class="posts">
+<p>
+        A while back I realized I needed a space outside of time.
+</p>
 <br>
 <br>
 {% assign posts=site.posts | where:"lang", page.lang %}
@@ -18,3 +17,5 @@ lang: eng
 {% endfor %}
 </ul>
 </section>
+
+

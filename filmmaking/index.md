@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: the cliffside studio
 ---
 <p>
     From screenwriting commentary to film stock experiments. Currently extremely tired of this bullshit after two failed attempts at getting a Fulbright scholarship.
 </p>
+
 
 {% include collapsibleFilmmaking.html %}
 
