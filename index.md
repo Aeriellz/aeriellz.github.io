@@ -2,3 +2,19 @@
 layout: default
 lang: eng
 ---
+
+<p>
+        A while back I realized I needed a space outside of time. A box of sorts: non-restrictive containment where everything goes, and where nothing really matters.
+</p>
+
+<section class="posts">
+<br>
+<br>
+{% assign posts=site.posts | where:"lang", page.lang %}
+<ul>
+{% for post in posts %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time
+         datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+{% endfor %}
+</ul>
+</section>
