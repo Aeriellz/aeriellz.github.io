@@ -1,4 +1,5 @@
 ---
+layout: page
 permalink: /compsci
 ---
 Here be all of the topics regarding Computer Science, from my explorations of microcontrolers and breadboard coding to webstack and my distaste for JS. Does *anyone* like JS?

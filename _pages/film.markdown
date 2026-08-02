@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /filmmaking
+permalink: /film
 ---
 From screenwriting commentary to film stock experiments. Currently extremely tired of this bullshit after two failed attempts at getting a Fulbright scholarship.
-
 <p>
 <center>
 <h3>Topics</h3>
