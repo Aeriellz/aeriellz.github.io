@@ -6,16 +6,3 @@ lang: eng
 
 <b>Frame</b> <i>/frām/
 <br>Noun.</i> 1. an open case or structure made for admitting, enclosing, or supporting something. 2. the underlying constructional system or structure that gives shape or strength (as to a building).
-
-<br>
-<br>
-{% assign posts=site.posts | where:"lang", page.lang %}
-<ul>
-{% for post in posts %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time
-         datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
-{% endfor %}
-</ul>
-</section>
-
-
