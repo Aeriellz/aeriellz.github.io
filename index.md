@@ -2,7 +2,6 @@
 layout: default
 lang: eng
 ---
-
 <section class="posts">
 
 <b>Frame</b> <i>/frām/
