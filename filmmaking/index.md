@@ -7,7 +7,8 @@ From screenwriting commentary to film stock experiments. Currently extremely tir
 <h3>Topics</h3>
 <a href="https://aeriellz.github.io/filmmaking/2025/09/23/the-gilligan-Moment.html"> List of Gilligan Moments </a> | 
 <a href="https://aeriellz.github.io/tag/fulbright/"> Fulbright</a> |
-<a href="https://aeriellz.github.io/tag/writing-basics/"> Writing Basics </a>
+<a href="https://aeriellz.github.io/tag/writing-basics/"> Writing Basics </a> |
+<a href="https://aeriellz.github.io/tag/notes-on/"> Analysis</a>
 </center>
 </p>
 
