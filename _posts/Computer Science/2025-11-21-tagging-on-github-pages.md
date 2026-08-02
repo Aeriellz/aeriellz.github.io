@@ -5,6 +5,7 @@ title: tagging on github pages and other woes
 layout: post
 tags:
   - code-learning
+  - blog-building
 lang: eng
 ref: taggithub
 ---

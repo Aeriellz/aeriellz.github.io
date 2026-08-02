@@ -5,7 +5,6 @@ title: resistance
 layout: post
 tags:
   - writing
-  - notes-on
 lang: eng
 ref: resistance
 ---

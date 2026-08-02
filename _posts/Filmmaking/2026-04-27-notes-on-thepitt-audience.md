@@ -5,6 +5,7 @@ title: notes on an audience
 layout: post
 tags:
   - writing
+  - notes-on
 lang: eng
 ref: pittaudience
 ---
