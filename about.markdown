@@ -3,7 +3,7 @@ layout: page
 permalink: /about
 ---
 
-## Hi!
+## Welcome to The Frame
 
 My name is **Ariel** (she/her), filmmaker and tinkerer currently based in Brazil, and you've either stumbled upon or was directed to this little website that I use as place to gather my thoughts!
 

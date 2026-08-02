@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: eng
+permalink: /blogroll/
 ---
 <section class="posts">
 {% assign posts=site.posts | where:"lang", page.lang %}
