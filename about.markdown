@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 ## Welcome to The Frame
-
+![A blurry black and white picture of a woman laughing.]({{site.url}}/images/Ariel59_Ariel59-R1-E014.jpg)
 **Ariel** (she/her) is a filmmaker and tinkerer currently based in Brazil; writer by trade and curious by nature.
 
 This website is both archive and diary, collecting the process of how old projects came to be and the investigations for the new ones. Rambles, swearing and overall complaining -- but also legitimate learning and discovery.
