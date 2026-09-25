@@ -1,6 +1,6 @@
 ---
 categories: filmmaking
-date: 2026-09-25 00:47:00 -0300
+date: 2026-09-25 00:07:00 -0300
 title: the good pause
 layout: post
 tags:
